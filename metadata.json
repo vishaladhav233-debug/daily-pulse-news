@@ -1,0 +1,6 @@
+{
+  "name": "DailyPulse News",
+  "description": "DailyPulse News is a comprehensive, fact-grounded daily news platform featuring breaking updates, in-depth reports, regional coverage, AI editorial synthesis, and editorial workflow governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
